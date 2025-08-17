@@ -57,9 +57,8 @@ You can install all dependencies with:
 
 ```bash
 pip install dash plotly pandas numpy scikit-learn matplotlib seaborn
+```
 ---
----
-
 ## 🎯 Use Cases
 
 - **Investors** – Identify sustainable companies with strong financials.  
@@ -77,3 +76,4 @@ pip install dash plotly pandas numpy scikit-learn matplotlib seaborn
 - ✅ Global heatmaps for environmental footprint  
 
 ---
+
